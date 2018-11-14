@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(158, 139, 139);
+}
+
+.container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.nav {
+    background-color: violet;
+    list-style-type: none;
+    text-align: left;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 15px;
+    padding: 20px;
+    margin-left: 40px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont;
+}
+
+.text {
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+}
+.text2{
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+    margin: 0 auto;
+    height: 50px;
+}
+.text3{
+    width: 330px;
+    height: 710px;
+    background-color: white;
+    float: right;
+    margin-top: -777px;
+    margin-right: 380px;
+}
+.example{
+    float: right;
+    margin-right: 50px;
+    margin-top: 15px;
+}
+h4{
+    font-size: 50px;
+    margin: 0;
+    text-align: center;
+}
+.main{
+    font-size: 30px;
+}
